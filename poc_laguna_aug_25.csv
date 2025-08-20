@@ -1,5 +1,5 @@
 Event Name,StartDateTime,EndDateTime,Timezone,Location,Desc,Category,Lanes
-CONFIG,EventTitle,"PoC Laguna Seca 2025",,,,,
+CONFIG,EventTitle,PoC Laguna Seca 2025,,,,,
 CONFIG,AlertMessage,"Weather Delay: Start time pushed back 30 minutes.",,,,,
 Test Event,8/20/2025 14:00,8/20/2025 20:00,America/Los_Angeles,,,Party,
 Next Test Event,8/20/2025 21:00,8/20/2025 22:00,America/Los_Angeles,,,Race,
