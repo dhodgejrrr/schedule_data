@@ -1,0 +1,90 @@
+Event Name,StartDateTime,EndDateTime,Timezone,Location,Desc,Category,Lanes
+CONFIG,EventTitle,ROAR Before the 24,,,,,
+Registration Hours,01/13/2026 12:00,01/13/2026 17:00,America/New_York,"IMSA Credential Office - 2013 Dunn Ave, Daytona Beach, FL",,Ops,OPS
+Registration Hours,01/14/2026 08:00,01/14/2026 17:00,America/New_York,"IMSA Credential Office - 2013 Dunn Ave, Daytona Beach, FL",,Ops,OPS
+Registration Hours,01/15/2026 06:00,01/15/2026 17:00,America/New_York,"IMSA Credential Office - 2013 Dunn Ave, Daytona Beach, FL",,Ops,OPS
+WeatherTech Championship HV Operating Protocol Review,01/15/2026 11:30,01/15/2026 12:00,America/New_York,Track Meeting Room - Daytona International Speedway,,Meeting,WeatherTech Championship
+WeatherTech Championship Driver & Team Manager Briefing,01/15/2026 12:15,01/15/2026 13:00,America/New_York,Track Meeting Room - Daytona International Speedway,,Meeting,WeatherTech Championship
+MICHELIN CHALLENGE Driver & Team Manager Briefing,01/15/2026 13:00,01/15/2026 13:45,America/New_York,Track Meeting Room - Daytona International Speedway,,Meeting,MICHELIN CHALLENGE
+VP CHALLENGE Team Manager Briefing,01/15/2026 13:45,01/15/2026 14:15,America/New_York,Track Meeting Room - Daytona International Speedway,,Meeting,VP CHALLENGE
+VP CHALLENGE New Driver Briefing (new to VPRC or DIS),01/16/2026 12:00,01/16/2026 12:30,America/New_York,Track Meeting Room - Daytona International Speedway,,Meeting,VP CHALLENGE
+VP CHALLENGE Driver & Team Manager Briefing,01/17/2026 12:00,01/17/2026 12:30,America/New_York,Track Meeting Room - Daytona International Speedway,,Meeting,VP CHALLENGE
+IMSA Transporters park and set up (Yellow Garages),01/11/2026 12:00,01/11/2026 12:30,America/New_York,Daytona International Speedway,,Ops,OPS
+IMSA set up,01/12/2026 08:00,01/12/2026 08:30,America/New_York,Daytona International Speedway,,Ops,OPS
+IMSA transporters park and set up (Blue Garages),01/12/2026 08:00,01/12/2026 08:30,America/New_York,Daytona International Speedway,,Ops,OPS
+Industry suppliers load-in (Airgas) - per IMSA Logistics,01/12/2026 10:30,01/12/2026 11:00,America/New_York,Daytona International Speedway,,Ops,OPS
+Industry suppliers load-in (Michelin) - per IMSA Logistics,01/12/2026 11:00,01/12/2026 11:30,America/New_York,Daytona International Speedway,,Ops,OPS
+Industry suppliers load-in (VP Racing) - per IMSA Logistics,01/12/2026 11:30,01/12/2026 12:00,America/New_York,Daytona International Speedway,,Ops,OPS
+IMSA set up,01/13/2026 07:00,01/13/2026 17:00,America/New_York,Daytona International Speedway,,Ops,OPS
+T&S set up and cabling access (Tower and Pit Lane),01/13/2026 07:00,01/13/2026 17:00,America/New_York,Daytona International Speedway,,Ops,OPS
+T&S set up and cabling access (on-track),01/14/2026 07:00,01/14/2026 18:00,America/New_York,Daytona International Speedway,,Ops,OPS
+IMSA set up,01/14/2026 07:00,01/14/2026 18:30,America/New_York,Daytona International Speedway,,Ops,OPS
+Industry and manufacturer support load-in,01/14/2026 11:00,01/14/2026 12:00,America/New_York,Daytona International Speedway,,Ops,OPS
+"On-track media activity (Pit-In, cold track)",01/14/2026 11:00,01/14/2026 12:00,America/New_York,Daytona International Speedway,,Track,OPS
+WeatherTech Championship competitor transporter load-in (park only; no opening),01/14/2026 14:00,01/14/2026 14:30,America/New_York,Daytona International Speedway,,Ops,WeatherTech Championship
+WeatherTech Championship supplemental transporter load-in (park only; no opening),01/14/2026 16:00,01/14/2026 16:30,America/New_York,Daytona International Speedway,,Ops,WeatherTech Championship
+Garages close (all),01/14/2026 18:30,01/14/2026 18:35,America/New_York,Daytona International Speedway,,Ops,OPS
+Garages and pit lane gates open,01/15/2026 08:00,01/15/2026 08:05,America/New_York,Daytona International Speedway,,Ops,OPS
+WeatherTech Championship - open transporters; pit lane equipment set up may commence,01/15/2026 08:00,01/15/2026 08:15,America/New_York,Daytona International Speedway,,Ops,WeatherTech Championship
+WeatherTech Championship - supplemental transporters unloading,01/15/2026 08:00,01/15/2026 08:15,America/New_York,Daytona International Speedway,,Ops,WeatherTech Championship
+MICHELIN CHALLENGE competitor transporter load-in (do not open/unload until 12:30),01/15/2026 09:00,01/15/2026 09:15,America/New_York,Daytona International Speedway,,Ops,MICHELIN CHALLENGE
+VP CHALLENGE competitor transporter load-in (do not open/unload until 12:30),01/15/2026 09:00,01/15/2026 09:15,America/New_York,Daytona International Speedway,,Ops,VP CHALLENGE
+Media Day / driver photos in firesuits (by appointment),01/15/2026 09:00,01/15/2026 19:00,America/New_York,Daytona 500 Club - Daytona International Speedway,,Ops,OPS
+T&S set up and cabling access (on-track),01/15/2026 10:00,01/15/2026 13:30,America/New_York,Daytona International Speedway,,Ops,OPS
+Media session activities (static - pit lane),01/15/2026 12:00,01/15/2026 12:30,America/New_York,Pit Lane - Daytona International Speedway,,Ops,OPS
+MICHELIN CHALLENGE - open transporters (no pit equipment set up until 16:30),01/15/2026 12:30,01/15/2026 12:40,America/New_York,Daytona International Speedway,,Ops,MICHELIN CHALLENGE
+VP CHALLENGE - open transporters,01/15/2026 12:30,01/15/2026 12:40,America/New_York,Daytona International Speedway,,Ops,VP CHALLENGE
+On-track media session activities (appointment required),01/15/2026 14:00,01/15/2026 16:40,America/New_York,Daytona International Speedway,,Track,OPS
+MICHELIN CHALLENGE - pit lane equipment set up,01/15/2026 16:30,01/15/2026 16:45,America/New_York,Daytona International Speedway,,Ops,MICHELIN CHALLENGE
+Track walk (credential holders; limited access),01/15/2026 16:45,01/15/2026 18:45,America/New_York,Pit Lane/Infield to Turn 6 - Daytona International Speedway,,Track,OPS
+On-track static photos (IMSA media; appointment required),01/15/2026 16:45,01/15/2026 18:45,America/New_York,Daytona International Speedway,,Track,OPS
+Pit lane gates close,01/15/2026 19:15,01/15/2026 19:20,America/New_York,Daytona International Speedway,,Ops,OPS
+Garages close,01/15/2026 19:45,01/15/2026 19:50,America/New_York,Daytona International Speedway,,Ops,OPS
+IMSA T&S transponder checks / TV cabling / track inspection / signage,01/16/2026 05:45,01/16/2026 07:00,America/New_York,Daytona International Speedway,,Ops,OPS
+Garages and pit lane gates open,01/16/2026 07:00,01/16/2026 07:05,America/New_York,Daytona International Speedway,,Ops,OPS
+On-track media session activities (appointment required),01/16/2026 07:15,01/16/2026 08:20,America/New_York,Daytona International Speedway,,Track,OPS
+Session #1 - MICHELIN CHALLENGE (all classes),01/16/2026 08:30,01/16/2026 09:45,America/New_York,Daytona International Speedway,,Track,MICHELIN CHALLENGE
+Practice #1 - VP CHALLENGE,01/16/2026 10:00,01/16/2026 10:40,America/New_York,Daytona International Speedway,,Track,VP CHALLENGE
+Session #1 - WeatherTech Championship (all classes),01/16/2026 11:00,01/16/2026 12:15,America/New_York,Daytona International Speedway,,Track,WeatherTech Championship
+Lunch,01/16/2026 12:15,01/16/2026 13:15,America/New_York,Daytona International Speedway,,Ops,OPS
+On-track media session activities (appointment required),01/16/2026 12:25,01/16/2026 13:05,America/New_York,Daytona International Speedway,,Track,OPS
+Session #2 - MICHELIN CHALLENGE,01/16/2026 13:15,01/16/2026 14:45,America/New_York,Daytona International Speedway,,Track,MICHELIN CHALLENGE
+Practice #2 - VP CHALLENGE,01/16/2026 15:00,01/16/2026 15:40,America/New_York,Daytona International Speedway,,Track,VP CHALLENGE
+Session #2 - WeatherTech Championship (all classes),01/16/2026 16:00,01/16/2026 18:00,America/New_York,Daytona International Speedway,,Track,WeatherTech Championship
+On-track media session activities (track lighting on; appointment required),01/16/2026 18:15,01/16/2026 19:15,America/New_York,Daytona International Speedway,,Track,OPS
+On-track media static photo (track lighting on; appointment required),01/16/2026 19:15,01/16/2026 19:45,America/New_York,Daytona International Speedway,,Track,OPS
+DIS fireworks,01/16/2026 20:30,01/16/2026 20:45,America/New_York,Daytona International Speedway,,Ops,OPS
+Pit lane gates close,01/16/2026 20:30,01/16/2026 20:35,America/New_York,Daytona International Speedway,,Ops,OPS
+Garages close,01/16/2026 21:00,01/16/2026 21:05,America/New_York,Daytona International Speedway,,Ops,OPS
+IMSA T&S transponder checks / TV cabling / track inspection / signage,01/17/2026 05:45,01/17/2026 07:00,America/New_York,Daytona International Speedway,,Ops,OPS
+Garages and pit lane gates open,01/17/2026 07:00,01/17/2026 07:05,America/New_York,Daytona International Speedway,,Ops,OPS
+Scout Days start/finish line walk,01/17/2026 07:00,01/17/2026 08:30,America/New_York,Daytona International Speedway,,Track,OPS
+Session #3 - MICHELIN CHALLENGE,01/17/2026 08:40,01/17/2026 10:10,America/New_York,Daytona International Speedway,,Track,MICHELIN CHALLENGE
+Qualifying - VP CHALLENGE GSX,01/17/2026 10:25,01/17/2026 10:40,America/New_York,Daytona International Speedway,,Track,VP CHALLENGE
+Qualifying - VP CHALLENGE GTDX/P3,01/17/2026 10:45,01/17/2026 11:00,America/New_York,Daytona International Speedway,,Track,VP CHALLENGE
+Session #3 - WeatherTech Championship (all classes),01/17/2026 11:15,01/17/2026 12:45,America/New_York,Daytona International Speedway,,Track,WeatherTech Championship
+Lunch,01/17/2026 12:45,01/17/2026 13:45,America/New_York,Daytona International Speedway,,Ops,OPS
+T&S and TV cabling access to track,01/17/2026 12:55,01/17/2026 13:35,America/New_York,Daytona International Speedway,,Ops,OPS
+False grid closed - VP CHALLENGE,01/17/2026 13:00,01/17/2026 13:05,America/New_York,Daytona International Speedway,,Ops,VP CHALLENGE
+Pre-race open grid / fan walk - VP CHALLENGE,01/17/2026 13:10,01/17/2026 13:45,America/New_York,Daytona International Speedway,,Ops,VP CHALLENGE
+Formation lap - VP CHALLENGE,01/17/2026 13:55,01/17/2026 14:00,America/New_York,Daytona International Speedway,,Track,VP CHALLENGE
+Race #1 - VP CHALLENGE,01/17/2026 14:00,01/17/2026 14:45,America/New_York,Daytona International Speedway,,Track,VP CHALLENGE
+Session #4 - WeatherTech Championship (all classes),01/17/2026 15:10,01/17/2026 16:10,America/New_York,Daytona International Speedway,,Track,WeatherTech Championship
+Session #4 - MICHELIN CHALLENGE,01/17/2026 16:30,01/17/2026 17:30,America/New_York,Daytona International Speedway,,Track,MICHELIN CHALLENGE
+Dinner,01/17/2026 17:30,01/17/2026 18:30,America/New_York,Daytona International Speedway,,Ops,OPS
+On-track media session activities (track lighting on; appointment required),01/17/2026 17:40,01/17/2026 18:15,America/New_York,Daytona International Speedway,,Track,OPS
+Session #5 - WeatherTech Championship (all classes),01/17/2026 18:30,01/17/2026 20:30,America/New_York,Daytona International Speedway,Proper attire required,Track,WeatherTech Championship
+Pit lane gates close,01/17/2026 21:30,01/17/2026 21:35,America/New_York,Daytona International Speedway,,Ops,OPS
+Garages close,01/17/2026 22:00,01/17/2026 22:05,America/New_York,Daytona International Speedway,,Ops,OPS
+Garages and pit lane gates open,01/18/2026 07:00,01/18/2026 07:05,America/New_York,Daytona International Speedway,,Ops,OPS
+IMSA T&S transponder checks / TV cabling / track inspection / signage,01/18/2026 07:00,01/18/2026 08:15,America/New_York,Daytona International Speedway,,Ops,OPS
+On-track media session activities (appointment required),01/18/2026 08:30,01/18/2026 09:30,America/New_York,Daytona International Speedway,,Track,OPS
+Session #6 - WeatherTech Championship (all classes),01/18/2026 09:45,01/18/2026 10:45,America/New_York,Daytona International Speedway,,Track,WeatherTech Championship
+Session #5 - MICHELIN CHALLENGE,01/18/2026 11:00,01/18/2026 12:15,America/New_York,Daytona International Speedway,,Track,MICHELIN CHALLENGE
+Lunch,01/18/2026 12:15,01/18/2026 13:15,America/New_York,Daytona International Speedway,,Ops,OPS
+Pre-race - VP CHALLENGE,01/18/2026 13:15,01/18/2026 13:20,America/New_York,Daytona International Speedway,,Ops,VP CHALLENGE
+Race #2 - VP CHALLENGE,01/18/2026 13:20,01/18/2026 14:05,America/New_York,Daytona International Speedway,,Track,VP CHALLENGE
+Session #7 - WeatherTech Championship (Bronze driver only),01/18/2026 14:30,01/18/2026 16:00,America/New_York,Daytona International Speedway,,Track,WeatherTech Championship
+Approved transporters may load-out,01/18/2026 17:30,01/18/2026 20:30,America/New_York,Daytona International Speedway,,Ops,OPS
+Pit lane gates close,01/18/2026 19:00,01/18/2026 19:05,America/New_York,Daytona International Speedway,,Ops,OPS
+Garages close,01/18/2026 19:30,01/18/2026 19:35,America/New_York,Daytona International Speedway,,Ops,OPS
