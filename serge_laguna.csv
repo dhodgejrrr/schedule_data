@@ -1,0 +1,8 @@
+Event Name,StartDateTime,EndDateTime,Timezone,Location,Desc,Category,Lanes
+CONFIG,EventTitle,Serge Track Days - Laguna Seca (July 3, 2026),,,,,
+Drivers meeting,07/03/2026 08:30,07/03/2026 08:45,America/Los_Angeles,"Garages",Serge Track Days,Ops,OPS
+Session #1,07/03/2026 09:00,07/03/2026 09:20,America/Los_Angeles,"Pit Lane",Serge Track Days,Track,OPS
+Session #2,07/03/2026 10:20,07/03/2026 10:40,America/Los_Angeles,"Pit Lane",Serge Track Days,Track,OPS
+Session #3,07/03/2026 12:00,07/03/2026 12:20,America/Los_Angeles,"Pit Lane",Serge Track Days,Track,OPS
+Session #4,07/03/2026 13:40,07/03/2026 14:00,America/Los_Angeles,"Pit Lane",Serge Track Days,Track,OPS
+Session #5,07/03/2026 15:20,07/03/2026 15:40,America/Los_Angeles,"Pit Lane",Serge Track Days,Track,OPS
