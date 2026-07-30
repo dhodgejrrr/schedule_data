@@ -1,0 +1,24 @@
+Event Name,StartDateTime,EndDateTime,Timezone,Location,Desc,Category,Lanes
+CONFIG,EventTitle,PCA - Laguna Seca (July 31 - Aug 2),,,,,
+PCA Drivers meeting,07/31/2026 07:25,07/31/2026 08:00,America/Los_Angeles,"Garages",PCA,Ops,OPS
+CR1 Practice 1,07/31/2026 10:05,07/31/2026 10:25,America/Los_Angeles,"Pit Lane",PCA,Track,CR1
+CR1 Practice 2,07/31/2026 11:50,07/31/2026 12:10,America/Los_Angeles,"Pit Lane",PCA,Track,CR1
+CR1 Practice 3,07/31/2026 14:05,07/31/2026 14:25,America/Los_Angeles,"Pit Lane",PCA,Track,CR1
+CR1 Practice 4,07/31/2026 15:55,07/31/2026 16:15,America/Los_Angeles,"Pit Lane",PCA,Track,CR1
+PCA Drivers meeting,08/01/2026 08:00,08/01/2026 08:35,America/Los_Angeles,"Garages",PCA,Ops,OPS
+CR1 Practice,08/01/2026 10:00,08/01/2026 10:20,America/Los_Angeles,"Pit Lane",PCA,Ops,CR1
+CR1 Quali Half 1,08/01/2026 12:10,08/01/2026 12:25,America/Los_Angeles,"Pit Lane",PCA,Ops,CR1
+CR1 Quali Half 2,08/01/2026 12:25,08/01/2026 12:40,America/Los_Angeles,"Pit Lane",PCA,Ops,CR1
+CR1 Race 1,08/01/2026 15:00,08/01/2026 15:30,America/Los_Angeles,"15 Laps",PCA,Ops,CR1
+CR1 Quali Half 1,08/02/2026 9:40,08/02/2026 9:55,America/Los_Angeles,"Pit Lane",PCA,Ops,CR1
+CR1 Quali Half 1,08/02/2026 9:55,08/02/2026 10:10,America/Los_Angeles,"Pit Lane",PCA,Ops,CR1
+CR1 Race 2,08/02/2026 9:55,08/02/2026 10:10,America/Los_Angeles,"Pit Lane",PCA,Ops,CR1
+PCA Warmup,07/31/2026 09:20,07/31/2026 09:45,America/Los_Angeles,"Pit Lane",PCA,Track,PCA
+PCA Practice 1,07/31/2026 11:05,07/31/2026 11:30,America/Los_Angeles,"Pit Lane",PCA,Track,PCA
+PCA Practice 2,07/31/2026 13:20,07/31/2026 13:45,America/Los_Angeles,"Pit Lane",PCA,Track,PCA
+PCA Quali 1,07/31/2026 15:10,07/31/2026 15:35,America/Los_Angeles,"Pit Lane",PCA,Track,PCA
+PCA Warmup,08/01/2026 09:20,07/31/2026 09:40,America/Los_Angeles,"Pit Lane",PCA,Track,PCA
+PCA Race 1,08/01/2026 11:10,08/01/2026 11:50,America/Los_Angeles,"Pit Lane",PCA,Track,PCA
+PCA Race 2,08/01/2026 13:00,08/01/2026 13:40,America/Los_Angeles,"Pit Lane",PCA,Track,PCA
+PCA Warmup,08/02/2026 09:00,08/02/2026 09:20,America/Los_Angeles,"Pit Lane",PCA,Track,PCA
+PCA Race 3,08/02/2026 11:00,08/02/2026 11:40,America/Los_Angeles,"Pit Lane",PCA,Track,PCA
