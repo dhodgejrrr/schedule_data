@@ -2,7 +2,7 @@ Event Name,StartDateTime,EndDateTime,Timezone,Location,Desc,Category,Lanes
 CONFIG,EventTitle,PSCW - Laguna Seca (Sept 3 - Sept 6),,,,,
 Porsche Load-In,09/03/2026 11:30,09/03/2026 13:00,America/Los_Angeles,"Paddock",PSCW,Ops,OPS
 Track Walk (All Series),09/03/2026 16:00,09/03/2026 17:00,America/Los_Angeles,"Pit Lane",PSCW,Ops,OPS
-Practice 1,09/04/2026 09:00,09/04/2026 09:40,America/Los_Angeles,"Track",PSCW,Track,PSCW
+Practice 1,09/04/2026 08:30,09/04/2026 09:10,America/Los_Angeles,"Track",PSCW,Track,PSCW
 Practice 2,09/04/2026 12:00,09/04/2026 12:40,America/Los_Angeles,"Track",PSCW,Track,PSCW
 Pre-GRID Quali Closes,09/04/2026 15:45,09/04/2026 15:50,America/Los_Angeles,"Grid",PSCW,Grid,PSCW
 Qualifying,09/04/2026 16:20,09/04/2026 16:40,America/Los_Angeles,"Track",PSCW,Track,PSCW
@@ -10,5 +10,5 @@ Pre-GRID Race 1,09/05/2026 08:00,09/05/2026 08:30,America/Los_Angeles,"Grid",PSC
 Race 1,09/05/2026 09:00,09/05/2026 09:40,America/Los_Angeles,"Track",PSCW,Track,PSCW
 Pre-GRID Race 2,09/06/2026 14:00,09/06/2026 14:30,America/Los_Angeles,"Grid",PSCW,Grid,PSCW
 Race 2,09/06/2026 15:00,09/06/2026 15:40,America/Los_Angeles,"Track",PSCW,Track,PSCW
-Briefing (TM+Driver),09/04/2026 10:15,09/04/2026 10:45,America/Los_Angeles,"Porsche Hospitality Truck",PSCW,Ops,OPS
+Briefing (TM+Driver),09/04/2026 07:30,09/04/2026 08:00,America/Los_Angeles,"Porsche Hospitality Truck",PSCW,Ops,OPS
 Autographs,09/06/2026 10:45,09/06/2026 11:45,America/Los_Angeles,"Porsche Hospitality Trailer",PSCW,Ops,OPS
